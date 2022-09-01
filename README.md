@@ -25,7 +25,9 @@
    In this section, the play subcategory campaign goals will be categorised in dollars and grouped from amounts less than $1000 to amounts more than $50000. The outcomes of these different amount ranges will be analysed and grouped firstly by counting the number of successful, failed and cancelled projects and finally calculating the percentage of successful, failed and cancelled outcones. Hence, we will be able to predict suitable and best goal amounts for future campaigns.
 
    ### Challenges and Difficulties Encountered
-   + Date conversion had to be done in order to do proper analysis using the Timestamp Coverter Tool online in the link here [epoch converter] https://www.epochconverter.com/
+   + Date conversion had to be done in order to do proper analysis using the Timestamp Coverter Tool online in the link here: https://www.epochconverter.com
+
+   + I encountered difficulties in navigating data across sheets. To ameliorate this, i had to use the freeze pane function in excel to create panes and make it easier to navigate across data.
 
 ## Results
 
@@ -37,6 +39,7 @@
 - What can you conclude about the Outcomes based on Goals?
    + There was a 76% success rate recorded for goal values less than $1000 and least success rate for goal values between $45000 to 49999. Thus, it is best to focus more on campaign goals less than 1000 for best results.
 
-- What are some limitations of this dataset?
-
 - What are some other possible tables and/or graphs that we could create?
+   + Outcomes based on deadline.
+   + Goals based on deadline.
+   + Oucomes based on spotlight
