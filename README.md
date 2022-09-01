@@ -6,7 +6,7 @@
 
   ## Analysis and Challenges
   In this project, we will be carrying out two different analysis for Louise's theater campaign category.
-  Firstly, we will analyse the theater outcomes based on launch date between January to December. We will then analyse the theater outcomes based on launch goals, categorised from amounts less than $1000 to amounts more than $50000. This analysis is defined below as:
+  Firstly, we will analyse the theater outcomes based on launch date between January to December. We will then analyse the theater outcomes based on goals, categorised from amounts less than $1000 to amounts more than $50000. This analysis is defined below as:
    + Analysis of Outcomes Based on Launch Date
    + Analysis of Outcomes Based on Goals
 
