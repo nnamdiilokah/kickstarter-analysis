@@ -27,7 +27,7 @@
    ### Challenges and Difficulties Encountered
    + Date conversion had to be done in order to do proper analysis using the Timestamp Coverter Tool online in the link here: https://www.epochconverter.com
 
-   + I encountered difficulties in navigating data across sheets. To ameliorate this, i had to use the freeze pane function in excel to create panes and make it easier to navigate across data.
+   + I encountered difficulties in navigating data across sheets. To ameliorate this, I had to use the freeze pane function in excel to create panes and make it easier to navigate across data.
 
 ## Results
 
